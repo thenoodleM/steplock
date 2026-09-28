@@ -1,18 +1,16 @@
 ### 📱 App Screenshots
 
-| Settings | Analytics | Blocked Apps |
+| Home | Earning Rates | Blocked Apps |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/ca074d4d-255c-47b7-bb3b-ebfb9234d5f6" width="220" alt="Home Screen"> | <img src="https://github.com/user-attachments/assets/e4d0240c-bb68-42f1-a6e2-939385cbe404" width="220" alt="Apps & Usage Screen"> | <img src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" width="220" alt="Analytics Overview Screen"> |
+| <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220" alt="Home Screen"> | <img src="https://github.com/user-attachments/assets/1e53586c-8c78-49f2-b59c-2a1f951d7e07" width="220" alt="Earning Rates Screen"> | <img src="https://github.com/user-attachments/assets/9a232955-1dd2-44a8-a0b5-6815283e7473" width="220" alt="Blocked Apps Screen"> |
 
-| Home | Blocked Overlay | Reminder |
+| Analytics | Settings | Notification |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/f58be387-ac2e-4f51-bf4e-9ee142c90406" width="220" alt="Habits & Progress Screen"> | <img src="https://github.com/user-attachments/assets/6ed37778-0411-478f-a123-0c94bab30798" width="220" alt="App Settings Screen"> | <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="220" alt="Enforcement Lock Overlay"> |
+| <img src="https://github.com/user-attachments/assets/d1c3feab-4f37-47a5-b2b2-d335218ef1bf" width="220" alt="Analytics Screen"> | <img src="https://github.com/user-attachments/assets/fd578644-7a78-4859-940e-22e7eea4c584" width="220" alt="Settings Screen"> | <img src="https://github.com/user-attachments/assets/5d94bf7e-0480-4d92-a6e8-fa32b46bf9cd" width="220" alt="Notification Screen"> |
 
-| Earning Rates |
-| :---: |
-| <img src="https://github.com/user-attachments/assets/1e53586c-8c78-49f2-b59c-2a1f951d7e07" width="220" alt="Widget Screen"> |
-
-
+| Blocked Overlay | Reminder |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/6ed37778-0411-478f-a123-0c94bab30798" width="220" alt="Blocked Overlay Screen"> | <img src="https://github.com/user-attachments/assets/8568e5b2-b9be-475d-9dcb-4721a15962f0" width="220" alt="Reminder Screen"> |
 
 StepLock
 
