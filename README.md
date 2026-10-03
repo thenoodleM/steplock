@@ -3,30 +3,24 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/bd014cb8-8ecf-4564-99a9-6978c370bdb0" width="240" alt="Habit Tracker Concept D" /><br />
-      <b>Habit Tracker</b>
+      <img src="https://github.com/user-attachments/assets/bd014cb8-8ecf-4564-99a9-6978c370bdb0" width="240" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/f31b8e41-ee97-4f8e-b2e5-35a7cb1c0322" width="240" alt="Short-Form Analytics" /><br />
-      <b>Short-Form Analytics</b>
+      <img src="https://github.com/user-attachments/assets/f31b8e41-ee97-4f8e-b2e5-35a7cb1c0322" width="240" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/fbe8d44d-509b-423c-bac0-edc8a03a6610" width="240" alt="App Blocker & Limits" /><br />
-      <b>App Blocker</b>
+      <img src="https://github.com/user-attachments/assets/fbe8d44d-509b-423c-bac0-edc8a03a6610" width="240" />
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/4f807f72-e112-43e0-a0f6-c5160670298e" width="240" alt="Banked Minutes Dashboard" /><br />
-      <b>Banked Time</b>
+      <img src="https://github.com/user-attachments/assets/4f807f72-e112-43e0-a0f6-c5160670298e" width="240" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/fd550334-c134-470e-b83e-95b3732a6720" width="240" alt="Step Lock Screen" /><br />
-      <b>Step Unlock Screen</b>
+      <img src="https://github.com/user-attachments/assets/fd550334-c134-470e-b83e-95b3732a6720" width="240" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/87142f4c-5d96-4e0e-a396-3d60c95ec31a" width="240" alt="Reminders & Settings" /><br />
-      <b>Settings & Reminders</b>
+      <img src="https://github.com/user-attachments/assets/87142f4c-5d96-4e0e-a396-3d60c95ec31a" width="240" />
     </td>
   </tr>
 </table>
